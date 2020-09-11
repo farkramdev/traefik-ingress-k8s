@@ -9,13 +9,13 @@
 
 To deploy traefik.io the following files 
 
-#### management/traefik/002-deployment.yaml
+#### deployment.yaml
 
 replace *{YOUR-E-MAIL}* with a valid email address 
 
 replace *{MASTER-NODE-IP}* with the ip address of your master node.
 
-#### management/traefik/003-ingress.yaml
+#### ingress.yaml
  
 replace *{YOUR-HOST-NAME}* with a Internet name pointing to your Master Node configured in your DNS 
 
